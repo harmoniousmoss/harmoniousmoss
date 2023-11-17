@@ -12,7 +12,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harmoniousmoss&show_icons=true&locale=en&layout=compact" alt="harmoniousmoss" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harmoniousmoss&show_icons=true&locale=en" alt="harmoniousmoss" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harmoniousmoss&" alt="harmoniousmoss" /></p>
 
