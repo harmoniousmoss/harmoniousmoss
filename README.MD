@@ -1,3 +1,6 @@
+# Hi, good people!
+I'm Syb—a software developer with a passion for creating cutting-edge solutions that drive meaningful innovations. My approach is deeply rooted in collaborative problem-solving, where I leverage the latest technological tools to build scalable, efficient, and robust applications. I thrive on challenges and consistently seek new ways to enhance functionality and user experience in every project I undertake.
+
 # The way forward is open
 
 Open source software is freely accessible for use, thoughtfully crafted by individuals around the globe, and forms the core of my software development efforts.
