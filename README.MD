@@ -6,10 +6,13 @@ I'm Syb—a software developer with a passion for creating cutting-edge solution
 Open source software is freely accessible for use, thoughtfully crafted by individuals around the globe, and forms the core of my software development efforts.
 
 # The project I'm using
-I proudly utilize these open source technologies as the cornerstone of my software projects.
+I proudly utilize these open source technologies as the cornerstone of my playground.
 
-* Fiber: Go web framework built on top of Fasthttp
-* Actix web: Powerful, pragmatic, and extremely fast web framework for Rust
+* [Fiber](https://gofiber.io/): Go web framework built on top of Fasthttp
+* [Actix](https://actix.rs/): Powerful, pragmatic, and extremely fast web framework for Rust
+* [MongoDB](https://www.mongodb.com/): NoSQL document-oriented database
+* [PostgreSQL](https://www.postgresql.org/): Relational database management system
+* [Typescript](https://www.typescriptlang.org/): JavaScript with syntax for types
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
