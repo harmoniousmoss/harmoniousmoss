@@ -12,5 +12,5 @@ I proudly utilize these open source technologies as the cornerstone of my softwa
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-# Contact
-syaefulbahri[at]protonmail[dot]com
+<!-- # Contact
+syaefulbahri[at]protonmail[dot]com-->
