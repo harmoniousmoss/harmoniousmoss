@@ -30,5 +30,8 @@ One CMS is unified content management system, specifically crafted for use acros
 
 By consolidating these systems into a single, unified platform, One CMS simplifies the process of content management and improves efficiency by allowing staff to access all resources with a single login, thereby enhancing workflow integration across the organization. Made with [Next.js](https://nextjs.org/), [Tailwind](https://tailwindcss.com/), [Fiber](https://gofiber.io/), [MongoDB](https://www.mongodb.com/), [Typescript](https://www.typescriptlang.org/)
 
+## Virgo
+A hassle-free, smart, and human-friendly virtual assistant that assists you with all your data needs. Virgo modernizes and democratizes your knowledge, making data management and access easier and more efficient for everyone. Made with [Next.js](https://nextjs.org/), [Tailwind](https://tailwindcss.com/), [Fiber](https://gofiber.io/), [MongoDB](https://www.mongodb.com/), [Typescript](https://www.typescriptlang.org/), [Vertex AI](https://cloud.google.com/vertex-ai?hl=en)
+
 <!-- # Contact
 syaefulbahri[at]protonmail[dot]com-->
