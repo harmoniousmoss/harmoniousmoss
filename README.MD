@@ -33,8 +33,8 @@ By consolidating these systems into a single, unified platform, One CMS simplifi
 ## Virgo
 A hassle-free, smart, and human-friendly virtual assistant that assists you with all your data needs. Virgo modernizes and democratizes your knowledge, making data management and access easier and more efficient for everyone. Made with [Next.js](https://nextjs.org/), [Tailwind](https://tailwindcss.com/), [Fiber](https://gofiber.io/), [MongoDB](https://www.mongodb.com/), [Typescript](https://www.typescriptlang.org/), [Vertex AI](https://cloud.google.com/vertex-ai?hl=en)
 
-## RustScrappy - Web scraping made easy
-A platform specifically designed to handle web scraping tasks efficiently, processing and storing large amounts of data extracted from various websites. Made with [Next.js](https://nextjs.org/), [Tailwind](https://tailwindcss.com/), [Typescript](https://www.typescriptlang.org/), [Actix](https://actix.rs/), [PostgreSQL](https://www.postgresql.org/)
+## RustScrappy
+A platform specifically designed to handle web scraping tasks efficiently, processing and storing of data extracted from various websites. Made with [Next.js](https://nextjs.org/), [Tailwind](https://tailwindcss.com/), [Typescript](https://www.typescriptlang.org/), [Actix](https://actix.rs/), [PostgreSQL](https://www.postgresql.org/)
 
-<!-- # Contact
-syaefulbahri[at]protonmail[dot]com-->
+# Contact
+syaefulbahri[at]protonmail[dot]com
