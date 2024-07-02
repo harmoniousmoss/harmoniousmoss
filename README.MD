@@ -9,12 +9,12 @@ Open source software is freely accessible for use, thoughtfully crafted by indiv
 I proudly utilize these open source technologies as the cornerstone of my playground.
 
 * [Fiber](https://gofiber.io/): Go web framework built on top of Fasthttp
-* [Actix](https://actix.rs/): Powerful, pragmatic, and extremely fast web framework for Rust
 * [MongoDB](https://www.mongodb.com/): NoSQL document-oriented database
 * [PostgreSQL](https://www.postgresql.org/): Relational database management system
 * [Typescript](https://www.typescriptlang.org/): JavaScript with syntax for types
 * [Next.js](https://nextjs.org/): The React Framework for the Web
 * [Tailwind](https://tailwindcss.com/): A utility-first CSS framework packed with classes
+* [Actix](https://actix.rs/): Powerful, pragmatic, and extremely fast web framework for Rust
 
 # Selection Projects
 
@@ -32,6 +32,9 @@ By consolidating these systems into a single, unified platform, One CMS simplifi
 
 ## Virgo
 A hassle-free, smart, and human-friendly virtual assistant that assists you with all your data needs. Virgo modernizes and democratizes your knowledge, making data management and access easier and more efficient for everyone. Made with [Next.js](https://nextjs.org/), [Tailwind](https://tailwindcss.com/), [Fiber](https://gofiber.io/), [MongoDB](https://www.mongodb.com/), [Typescript](https://www.typescriptlang.org/), [Vertex AI](https://cloud.google.com/vertex-ai?hl=en)
+
+# RustScrappy - Web scraping made easy
+A platform specifically designed to handle web scraping tasks efficiently, processing and storing large amounts of data extracted from various websites. Made with [Next.js](https://nextjs.org/), [Tailwind](https://tailwindcss.com/), [Typescript](https://www.typescriptlang.org/), [Actix](https://actix.rs/), [PostgreSQL](https://www.postgresql.org/)
 
 <!-- # Contact
 syaefulbahri[at]protonmail[dot]com-->
