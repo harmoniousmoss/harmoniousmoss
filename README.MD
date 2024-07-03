@@ -6,7 +6,7 @@ I'm a software developer with a passion for creating cutting-edge solutions that
 Open source software is freely accessible for use, thoughtfully crafted by individuals around the globe, and forms the core of my software development efforts. -->
 
 # The project I'm using
-I proudly utilize these open source technologies as the cornerstone of my playground.
+I proudly utilize these open source technologies as the cornerstone of my software development projects.
 
 * [Fiber](https://gofiber.io/): Go web framework built on top of Fasthttp
 * [MongoDB](https://www.mongodb.com/): NoSQL document-oriented database
