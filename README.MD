@@ -28,5 +28,5 @@ A hassle-free, smart, and human-friendly virtual assistant that assists you with
 ## RustScrappy
 A platform specifically designed to handle web scraping tasks efficiently, processing and storing of data extracted from various websites. Made with [Next.js](https://nextjs.org/), [Tailwind](https://tailwindcss.com/), [Typescript](https://www.typescriptlang.org/), [Actix Web](https://actix.rs/), [PostgreSQL](https://www.postgresql.org/)
 
-# Contact
-syaefulbahri[at]protonmail[dot]com
+# Have something in mind?
+Contact: syaefulbahri[at]protonmail[dot]com
