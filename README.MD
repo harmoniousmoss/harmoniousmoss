@@ -12,9 +12,7 @@ I proudly utilize these open source technologies as the cornerstone of my playgr
 * [MongoDB](https://www.mongodb.com/): NoSQL document-oriented database
 * [PostgreSQL](https://www.postgresql.org/): Relational database management system
 * [Typescript](https://www.typescriptlang.org/): JavaScript with syntax for types
-* [Next.js](https://nextjs.org/): The React Framework for the Web
-* [Tailwind](https://tailwindcss.com/): A utility-first CSS framework packed with classes
-* [Actix](https://actix.rs/): Powerful, pragmatic, and extremely fast web framework for Rust
+* [Actix Web](https://actix.rs/): Powerful, pragmatic, and extremely fast web framework for Rust
 
 # Selection Projects
 
