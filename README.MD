@@ -14,7 +14,7 @@ I proudly utilize these open source technologies as the cornerstone of my softwa
 * [Typescript](https://www.typescriptlang.org/): JavaScript with syntax for types
 * [Actix Web](https://actix.rs/): Powerful, pragmatic, and extremely fast web framework for Rust
 
-<!--# Selection Projects
+# Selection Projects
 
 ## Macro monitor
 A platform for real-time insights and analysis of the Indonesian economy, delivering up-to-date and accurate economic data to inform strategic planning and decision-making. It provides a deeper understanding of Indonesia's economic landscape to support your economic monitoring needs with precision and ease. Made with [Next.js](https://nextjs.org/), [Tailwind](https://tailwindcss.com/), [Fiber](https://gofiber.io/), [MongoDB](https://www.mongodb.com/), [Typescript](https://www.typescriptlang.org/), [Apexcharts.js](https://apexcharts.com/)
@@ -29,4 +29,4 @@ A hassle-free, smart, and human-friendly virtual assistant that assists you with
 A platform specifically designed to handle web scraping tasks efficiently, processing and storing of data extracted from various websites. Made with [Next.js](https://nextjs.org/), [Tailwind](https://tailwindcss.com/), [Typescript](https://www.typescriptlang.org/), [Actix Web](https://actix.rs/), [PostgreSQL](https://www.postgresql.org/)
 
 # Have something in mind?
-Contact: syaefulbahri[at]protonmail[dot]com-->
+Contact: syaefulbahri[at]protonmail[dot]com
