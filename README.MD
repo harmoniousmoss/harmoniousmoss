@@ -13,6 +13,7 @@ I proudly utilize these open source technologies as the cornerstone of my softwa
 * [PostgreSQL](https://www.postgresql.org/): Relational database management system
 * [Typescript](https://www.typescriptlang.org/): JavaScript with syntax for types
 * [Actix Web](https://actix.rs/): Powerful, pragmatic, and extremely fast web framework for Rust
+* [Swift](https://www.swift.org/): High-level general-purpose, multi-paradigm, compiled programming language for all Apple platforms
 
 # Selection Projects
 
