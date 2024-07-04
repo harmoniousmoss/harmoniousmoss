@@ -15,7 +15,7 @@ I proudly utilize these open source technologies as the cornerstone of my softwa
 * [Actix Web](https://actix.rs/): Powerful, pragmatic, and extremely fast web framework for Rust
 * [Swift](https://www.swift.org/): High-level general-purpose, multi-paradigm, compiled programming language for all Apple platforms
 
-# Selection Projects
+<!--# Selection Projects
 
 ## Macro monitor
 A platform for real-time insights and analysis of the Indonesian economy, delivering up-to-date and accurate economic data to inform strategic planning and decision-making. It provides a deeper understanding of Indonesia's economic landscape to support your economic monitoring needs with precision and ease. Made with [Next.js](https://nextjs.org/), [Tailwind](https://tailwindcss.com/), [Fiber](https://gofiber.io/), [MongoDB](https://www.mongodb.com/), [Typescript](https://www.typescriptlang.org/), [Apexcharts.js](https://apexcharts.com/)
@@ -33,4 +33,4 @@ A platform specifically designed to handle web scraping tasks efficiently, proce
 Talent Dev is a mobile application designed to curate and connect professionals to development job opportunities across Indonesia. This app targets a range of users from fresh graduates to seasoned experts seeking roles in non-profits, NGOs, government, and the private sector. Made with [Swift](https://www.swift.org/)
 
 # Have something in mind?
-Contact: syaefulbahri[at]protonmail[dot]com
+Contact: syaefulbahri[at]protonmail[dot]com-->
