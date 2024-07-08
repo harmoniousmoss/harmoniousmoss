@@ -13,7 +13,7 @@ Open source software is freely accessible for use, thoughtfully crafted by indiv
 * [PostgreSQL](https://www.postgresql.org/): Relational database management system
 * [Typescript](https://www.typescriptlang.org/): JavaScript with syntax for types
 * [Actix Web](https://actix.rs/): Powerful, pragmatic, and extremely fast web framework for Rust
-* [Swift](https://www.swift.org/): High-level general-purpose, multi-paradigm, compiled programming language-->
+* [Swift](https://www.swift.org/): High-level general-purpose, multi-paradigm, compiled programming language
 
 <!--# Selection Projects
 
