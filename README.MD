@@ -5,7 +5,7 @@ I'm a software developer with a passion for creating cutting-edge solutions that
 <!-- # The way forward is open
 Open source software is freely accessible for use, thoughtfully crafted by individuals around the globe, and forms the core of my software development efforts. -->
 
-# The project I'm using
+<!-- # The project I'm using
 I proudly utilize these open source technologies as the cornerstone of my software development projects.
 
 * [Fiber](https://gofiber.io/): Go web framework built on top of Fasthttp
@@ -13,7 +13,7 @@ I proudly utilize these open source technologies as the cornerstone of my softwa
 * [PostgreSQL](https://www.postgresql.org/): Relational database management system
 * [Typescript](https://www.typescriptlang.org/): JavaScript with syntax for types
 * [Actix Web](https://actix.rs/): Powerful, pragmatic, and extremely fast web framework for Rust
-* [Swift](https://www.swift.org/): High-level general-purpose, multi-paradigm, compiled programming language
+* [Swift](https://www.swift.org/): High-level general-purpose, multi-paradigm, compiled programming language-->
 
 <!--# Selection Projects
 
