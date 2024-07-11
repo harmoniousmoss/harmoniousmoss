@@ -12,7 +12,7 @@ I proudly utilize these open source technologies as the cornerstone of my softwa
 * [PostgreSQL](https://www.postgresql.org/): Relational database management system
 * [Typescript](https://www.typescriptlang.org/): JavaScript with syntax for types
 * [Swift](https://www.swift.org/): High-level general-purpose, multi-paradigm, compiled programming language
-<!--* [Actix Web](https://actix.rs/): Powerful, pragmatic, and extremely fast web framework for Rust-->
+* [Axum](https://docs.rs/axum/latest/axum/): Ergonomic and modular Rust web framework built with Tokio, Tower, and Hyper
 
 
 <!--# Selection Projects
