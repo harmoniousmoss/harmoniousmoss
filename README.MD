@@ -11,8 +11,8 @@ I proudly utilize these open source technologies as the cornerstone of my softwa
 * [MongoDB](https://www.mongodb.com/): NoSQL document-oriented database
 * [PostgreSQL](https://www.postgresql.org/): Relational database management system
 * [Typescript](https://www.typescriptlang.org/): JavaScript with syntax for types
-* [Swift](https://www.swift.org/): High-level general-purpose, multi-paradigm, compiled programming language
-* [Kotlin](https://kotlinlang.org/): Cross-platform, statically typed, general-purpose high-level programming language
+<!--* [Swift](https://www.swift.org/): High-level general-purpose, multi-paradigm, compiled programming language
+* [Kotlin](https://kotlinlang.org/): Cross-platform, statically typed, general-purpose high-level programming language-->
 * [SolidJS](https://www.solidjs.com/): Simple and performant reactivity for building user interfaces
 
 <!--# Selection Projects
