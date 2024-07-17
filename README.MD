@@ -13,6 +13,7 @@ I proudly utilize these open source technologies as the cornerstone of my softwa
 * [Typescript](https://www.typescriptlang.org/): JavaScript with syntax for types
 * [SolidJS](https://www.solidjs.com/): Simple and performant reactivity for building user interfaces
 * [Swift](https://www.swift.org/): High-level general-purpose, multi-paradigm, compiled programming language
+* [Vapor](https://vapor.codes/): A server-side Swift HTTP web framework
 <!--* [Kotlin](https://kotlinlang.org/): Cross-platform, statically typed, general-purpose high-level programming language-->
 
 
