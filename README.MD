@@ -7,6 +7,7 @@ Open source software is freely accessible for use, thoughtfully crafted by indiv
 # The project I'm using
 I proudly utilize these open source technologies as the cornerstone of my software development projects.
 
+* [Go](https://go.dev/): Statically typed, compiled high-level programming language
 * [Fiber](https://gofiber.io/): Go web framework built on top of Fasthttp
 * [MongoDB](https://www.mongodb.com/): NoSQL document-oriented database
 * [Typescript](https://www.typescriptlang.org/): JavaScript with syntax for types
