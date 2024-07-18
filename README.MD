@@ -1,13 +1,12 @@
-<!--# Hi, good people!
-I'm a software developer with a passion for creating cutting-edge solutions that drive meaningful innovations. My approach is deeply rooted in collaborative problem-solving, where I leverage the latest technological tools to build scalable, efficient, and robust applications. I harnessing the power of information technology to create solutions that not only push the boundaries of innovation but also generate meaningful social impact, aiming to create applications that improve lives and communities.-->
+# Hi, good people!
+I'm a software developer with a passion for creating cutting-edge solutions that drive meaningful innovations. My approach is deeply rooted in collaborative problem-solving, where I leverage the latest technological tools to build scalable, efficient, and robust applications. I harnessing the power of information technology to create solutions that not only push the boundaries of innovation but also generate meaningful social impact, aiming to create applications that improve lives and communities.
 
-# The way forward is open
-Open source software is freely accessible for use, thoughtfully crafted by individuals around the globe, and forms the core of my software development efforts.
+<!--# The way forward is open
+Open source software is freely accessible for use, thoughtfully crafted by individuals around the globe, and forms the core of my software development efforts.-->
 
 # The project I'm using
 I proudly utilize these open source technologies as the cornerstone of my software development projects.
 
-* [Go](https://go.dev/): Statically typed, compiled high-level programming language
 * [Fiber](https://gofiber.io/): Go web framework built on top of Fasthttp
 * [MongoDB](https://www.mongodb.com/): NoSQL document-oriented database
 * [Typescript](https://www.typescriptlang.org/): JavaScript with syntax for types
@@ -16,10 +15,11 @@ I proudly utilize these open source technologies as the cornerstone of my softwa
 * [Vapor](https://vapor.codes/): A server-side Swift HTTP web framework
 <!--* [Kotlin](https://kotlinlang.org/): Cross-platform, statically typed, general-purpose high-level programming language
 * [PostgreSQL](https://www.postgresql.org/): Relational database management system
+* [Go](https://go.dev/): Statically typed, compiled high-level programming language
 -->
 
 
-<!--# Selection Projects
+# Selection Projects
 
 ## Macro monitor
 A platform for insights and analysis of the Indonesian economy, delivering up-to-date and accurate economic data to inform strategic planning and decision-making. It provides a deeper understanding of Indonesia's economic landscape to support your economic monitoring needs with precision and ease. Made with [Next.js](https://nextjs.org/), [Tailwind](https://tailwindcss.com/), [Fiber](https://gofiber.io/), [MongoDB](https://www.mongodb.com/), [Typescript](https://www.typescriptlang.org/), [Apexcharts.js](https://apexcharts.com/)
@@ -30,11 +30,14 @@ One CMS is unified content management system, specifically crafted for use acros
 ## Virgo
 A hassle-free, smart, and human-friendly virtual assistant that assists you with all your data needs. Virgo modernizes and democratizes your knowledge, making data management and access easier and more efficient for everyone. Made with [Next.js](https://nextjs.org/), [Tailwind](https://tailwindcss.com/), [Fiber](https://gofiber.io/), [MongoDB](https://www.mongodb.com/), [Typescript](https://www.typescriptlang.org/), [OpenAI](https://openai.com/)
 
-## RustScrappy
-A platform specifically designed to handle web scraping tasks efficiently, processing and storing of data extracted from various websites. Made with [Next.js](https://nextjs.org/), [Tailwind](https://tailwindcss.com/), [Typescript](https://www.typescriptlang.org/), [Actix Web](https://actix.rs/), [PostgreSQL](https://www.postgresql.org/)
+## GoScrappy
+A platform specifically designed to handle web scraping tasks efficiently, processing and storing of data extracted from various websites. Made with [Next.js](https://nextjs.org/), [Tailwind](https://tailwindcss.com/), [Typescript](https://www.typescriptlang.org/), [MongoDB](https://www.mongodb.com/), [Fiber](https://gofiber.io/)
 
 ## TalentDev
 Talent Dev is a mobile application designed to curate and connect professionals to development job opportunities across Indonesia. This app targets a range of users from fresh graduates to seasoned experts seeking roles in non-profits, NGOs, government, and the private sector. Made with [Swift](https://www.swift.org/)
+
+## Harmoniousmoss
+Personal website. Made with [Vapor](https://vapor.codes/), [MongoDB](https://www.mongodb.com/), [Typescript](https://www.typescriptlang.org/), [SolidJS](https://www.solidjs.com/)
 
 # Have something in mind?
 Contact: syaefulbahri[at]protonmail[dot]com-->
