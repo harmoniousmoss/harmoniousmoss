@@ -1,7 +1,7 @@
-# Hi, good people!
-I'm a software developer with a passion for creating cutting-edge solutions that drive meaningful innovations, aiming to create applications that improve lives and communities.
+<!--# Hi, good people!
+I'm a software developer with a passion for creating cutting-edge solutions that drive meaningful innovations, aiming to create applications that improve lives and communities.-->
 
-<!--# The way forward is open
+# The way forward is open
 Open source software is freely accessible for use, thoughtfully crafted by individuals around the globe, and forms the core of my software development efforts.-->
 
 # The project I'm using
@@ -21,9 +21,9 @@ I proudly utilize these open source technologies as the cornerstone of my softwa
 -->
 
 
-# Now playing
+<!--# Now playing
 
-<!-- ## Macro monitor
+## Macro monitor
 A platform for insights and analysis of the Indonesian economy, delivering up-to-date and accurate economic data to inform strategic planning and decision-making. It provides a deeper understanding of Indonesia's economic landscape to support your economic monitoring needs with precision and ease. Made with [Next.js](https://nextjs.org/), [Tailwind](https://tailwindcss.com/), [Fiber](https://gofiber.io/), [MongoDB](https://www.mongodb.com/), [Typescript](https://www.typescriptlang.org/), [Apexcharts.js](https://apexcharts.com/)
 
 ## One CMS
@@ -45,5 +45,5 @@ Contact: syaefulbahri[at]protonmail[dot]com-->
 Your friendly realtime IP Blacklist platform, made with [Axum](https://github.com/tokio-rs/axum) and [CockroachDB](https://www.cockroachlabs.com/)
 
 ## Harmoniousmoss
-Personal website. Made with [SolidJS](https://www.solidjs.com/), [Tailwind](https://tailwindcss.com/), [Typescript](https://www.typescriptlang.org/), [MongoDB](https://www.mongodb.com/), [Vapor](https://vapor.codes/)
+Personal website. Made with [SolidJS](https://www.solidjs.com/), [Tailwind](https://tailwindcss.com/), [Typescript](https://www.typescriptlang.org/), [MongoDB](https://www.mongodb.com/), [Vapor](https://vapor.codes/)-->
 
