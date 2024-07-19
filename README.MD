@@ -45,7 +45,7 @@ Personal website. Made with [Vapor](https://vapor.codes/), [MongoDB](https://www
 Contact: syaefulbahri[at]protonmail[dot]com-->
 
 ## RustKeeper
-Your friendly realtime IP Blacklist platform, made with [`Axum`](https://github.com/tokio-rs/axum) and [`CockroachDB`](https://www.cockroachlabs.com/)
+Your friendly realtime IP Blacklist platform, made with [Axum](https://github.com/tokio-rs/axum) and [CockroachDB](https://www.cockroachlabs.com/)
 
 ## Virgo
 A hassle-free, smart, and human-friendly virtual assistant that assists you with all your data needs. Virgo modernizes and democratizes your knowledge, making data management and access easier and more efficient for everyone. Made with [Next.js](https://nextjs.org/), [Tailwind](https://tailwindcss.com/), [Fiber](https://gofiber.io/), [MongoDB](https://www.mongodb.com/), [Typescript](https://www.typescriptlang.org/), [OpenAI](https://openai.com/)
