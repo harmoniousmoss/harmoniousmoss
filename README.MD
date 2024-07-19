@@ -53,9 +53,6 @@ A hassle-free, smart, and human-friendly virtual assistant that assists you with
 ## GoScrappy
 A platform specifically designed to handle web scraping tasks efficiently, processing and storing of data extracted from various websites. Made with [SolidJS](https://www.solidjs.com/), [Tailwind](https://tailwindcss.com/), [Typescript](https://www.typescriptlang.org/), [MongoDB](https://www.mongodb.com/), [Fiber](https://gofiber.io/)
 
-## Virgo
-A hassle-free, smart, and human-friendly virtual assistant that assists you with all your data needs. Virgo modernizes and democratizes your knowledge, making data management and access easier and more efficient for everyone. Made with [SolidJS](https://www.solidjs.com/), [Tailwind](https://tailwindcss.com/), [Fiber](https://gofiber.io/), [MongoDB](https://www.mongodb.com/), [Typescript](https://www.typescriptlang.org/), [OpenAI](https://openai.com/)
-
 ## Harmoniousmoss
 Personal website. Made with [SolidJS](https://www.solidjs.com/), [Tailwind](https://tailwindcss.com/), [Typescript](https://www.typescriptlang.org/), [MongoDB](https://www.mongodb.com/), [Vapor](https://vapor.codes/)
 
