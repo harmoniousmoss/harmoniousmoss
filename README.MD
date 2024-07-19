@@ -2,7 +2,7 @@
 I'm a software developer with a passion for creating cutting-edge solutions that drive meaningful innovations, aiming to create applications that improve lives and communities.-->
 
 # The way forward is open
-Open source software is freely accessible for use, thoughtfully crafted by individuals around the globe, and forms the core of my software development efforts.-->
+Open source software is freely accessible for use, thoughtfully crafted by individuals around the globe, and forms the core of my software development efforts.
 
 # The project I'm using
 I proudly utilize these open source technologies as the cornerstone of my software development projects.
