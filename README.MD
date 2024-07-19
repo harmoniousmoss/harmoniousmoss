@@ -13,15 +13,17 @@ I proudly utilize these open source technologies as the cornerstone of my softwa
 * [SolidJS](https://www.solidjs.com/): Simple and performant reactivity for building user interfaces
 * [Swift](https://www.swift.org/): High-level general-purpose, multi-paradigm, compiled programming language
 * [Vapor](https://vapor.codes/): A server-side Swift HTTP web framework
+* [Axum](https://github.com/tokio-rs/axum): Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+* [CockroachDB](https://www.cockroachlabs.com/): The open source, cloud-native distributed SQL database.
 <!--* [Kotlin](https://kotlinlang.org/): Cross-platform, statically typed, general-purpose high-level programming language
 * [PostgreSQL](https://www.postgresql.org/): Relational database management system
 * [Go](https://go.dev/): Statically typed, compiled high-level programming language
 -->
 
 
-<!--# Selection Projects
+# Projects in plan
 
-## Macro monitor
+<!--## Macro monitor
 A platform for insights and analysis of the Indonesian economy, delivering up-to-date and accurate economic data to inform strategic planning and decision-making. It provides a deeper understanding of Indonesia's economic landscape to support your economic monitoring needs with precision and ease. Made with [Next.js](https://nextjs.org/), [Tailwind](https://tailwindcss.com/), [Fiber](https://gofiber.io/), [MongoDB](https://www.mongodb.com/), [Typescript](https://www.typescriptlang.org/), [Apexcharts.js](https://apexcharts.com/)
 
 ## One CMS
@@ -41,3 +43,19 @@ Personal website. Made with [Vapor](https://vapor.codes/), [MongoDB](https://www
 
 # Have something in mind?
 Contact: syaefulbahri[at]protonmail[dot]com-->
+
+## RustKeeper
+Your friendly realtime IP Blacklist platform, made with [`Axum`](https://github.com/tokio-rs/axum) and [`CockroachDB`](https://www.cockroachlabs.com/)
+
+## Virgo
+A hassle-free, smart, and human-friendly virtual assistant that assists you with all your data needs. Virgo modernizes and democratizes your knowledge, making data management and access easier and more efficient for everyone. Made with [Next.js](https://nextjs.org/), [Tailwind](https://tailwindcss.com/), [Fiber](https://gofiber.io/), [MongoDB](https://www.mongodb.com/), [Typescript](https://www.typescriptlang.org/), [OpenAI](https://openai.com/)
+
+## GoScrappy
+A platform specifically designed to handle web scraping tasks efficiently, processing and storing of data extracted from various websites. Made with [Next.js](https://nextjs.org/), [Tailwind](https://tailwindcss.com/), [Typescript](https://www.typescriptlang.org/), [MongoDB](https://www.mongodb.com/), [Fiber](https://gofiber.io/)
+
+## Virgo
+A hassle-free, smart, and human-friendly virtual assistant that assists you with all your data needs. Virgo modernizes and democratizes your knowledge, making data management and access easier and more efficient for everyone. Made with [Next.js](https://nextjs.org/), [Tailwind](https://tailwindcss.com/), [Fiber](https://gofiber.io/), [MongoDB](https://www.mongodb.com/), [Typescript](https://www.typescriptlang.org/), [OpenAI](https://openai.com/)
+
+## Harmoniousmoss
+Personal website. Made with [SolidJS](https://www.solidjs.com/), [Tailwind](https://tailwindcss.com/), [Typescript](https://www.typescriptlang.org/), [MongoDB](https://www.mongodb.com/), [Vapor](https://vapor.codes/)
+
