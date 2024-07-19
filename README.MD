@@ -39,7 +39,7 @@ A platform specifically designed to handle web scraping tasks efficiently, proce
 Talent Dev is a mobile application designed to curate and connect professionals to development job opportunities across Indonesia. This app targets a range of users from fresh graduates to seasoned experts seeking roles in non-profits, NGOs, government, and the private sector. Made with [Swift](https://www.swift.org/)
 
 # Have something in mind?
-Contact: syaefulbahri[at]protonmail[dot]com-->
+Contact: syaefulbahri[at]protonmail[dot]com
 
 ## RustKeeper
 Your friendly realtime IP Blacklist platform, made with [Axum](https://github.com/tokio-rs/axum) and [CockroachDB](https://www.cockroachlabs.com/)
