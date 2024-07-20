@@ -13,11 +13,12 @@ I proudly utilize these open source technologies as the cornerstone of my softwa
 * [SolidJS](https://www.solidjs.com/): Simple and performant reactivity for building user interfaces
 * [Swift](https://www.swift.org/): High-level general-purpose, multi-paradigm, compiled programming language
 * [Rust](https://www.rust-lang.org/): Systems programming language designed for performance and safety
-* [CockroachDB](https://www.cockroachlabs.com/): The open source, cloud-native distributed SQL database.
+
 <!--* [Kotlin](https://kotlinlang.org/): Cross-platform, statically typed, general-purpose high-level programming language
 * [PostgreSQL](https://www.postgresql.org/): Relational database management system
 * [Vapor](https://vapor.codes/): A server-side Swift HTTP web framework
 * [Fiber](https://gofiber.io/): Go web framework built on top of Fasthttp
+* [CockroachDB](https://www.cockroachlabs.com/): The open source, cloud-native distributed SQL database.
 -->
 
 <!--# Now playing
