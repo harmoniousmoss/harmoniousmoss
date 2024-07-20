@@ -1,7 +1,7 @@
-# Hi, good people!
-I'm a software developer with a passion for creating cutting-edge solutions that drive meaningful innovations, aiming to create applications that improve lives and communities.
+<!--# Hi, good people!
+I'm a software developer with a passion for creating cutting-edge solutions that drive meaningful innovations, aiming to create applications that improve lives and communities.-->
 
-<!--# The way forward is open
+# The way forward is open
 Open source software is freely accessible for use, thoughtfully crafted by individuals around the globe, and forms the core of my software development efforts.-->
 
 # The project I'm using
@@ -38,11 +38,11 @@ A platform specifically designed to handle web scraping tasks efficiently, proce
 Talent Dev is a mobile application designed to curate and connect professionals to development job opportunities across Indonesia. This app targets a range of users from fresh graduates to seasoned experts seeking roles in non-profits, NGOs, government, and the private sector. Made with [Swift](https://www.swift.org/)
 
 # Have something in mind?
-Contact: syaefulbahri[at]protonmail[dot]com-->
+Contact: syaefulbahri[at]protonmail[dot]com
 
 ## RustKeeper
 Your friendly realtime IP Blacklist platform, made with [Axum](https://github.com/tokio-rs/axum) (Rust) and [MongoDB](https://www.mongodb.com/)
 
 ## Harmoniousmoss
-Personal website. Made with [SolidJS](https://www.solidjs.com/), [Tailwind](https://tailwindcss.com/), [Typescript](https://www.typescriptlang.org/), [MongoDB](https://www.mongodb.com/), and [Vapor](https://vapor.codes/)
+Personal website. Made with [SolidJS](https://www.solidjs.com/), [Tailwind](https://tailwindcss.com/), [Typescript](https://www.typescriptlang.org/), [MongoDB](https://www.mongodb.com/), and [Vapor](https://vapor.codes/)-->
 
