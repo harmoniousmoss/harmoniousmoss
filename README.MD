@@ -13,7 +13,6 @@ I proudly utilize these open source technologies as the cornerstone of my softwa
 * [SolidJS](https://www.solidjs.com/): Simple and performant reactivity for building user interfaces
 * [Swift](https://www.swift.org/): High-level general-purpose, multi-paradigm, compiled programming language
 * [Vapor](https://vapor.codes/): A server-side Swift HTTP web framework
-* [Axum](https://github.com/tokio-rs/axum): Ergonomic and modular web framework built with Rust, Tokio, Tower, and Hyper
 * [CockroachDB](https://www.cockroachlabs.com/): The open source, cloud-native distributed SQL database.
 <!--* [Kotlin](https://kotlinlang.org/): Cross-platform, statically typed, general-purpose high-level programming language
 * [PostgreSQL](https://www.postgresql.org/): Relational database management system
