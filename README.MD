@@ -7,18 +7,18 @@ Open source software is freely accessible for use, thoughtfully crafted by indiv
 # The project I'm using
 I proudly utilize these open source technologies as the cornerstone of my software development projects.
 
-* [Fiber](https://gofiber.io/): Go web framework built on top of Fasthttp
+* [Go](https://go.dev/): Statically typed, compiled high-level programming language
 * [MongoDB](https://www.mongodb.com/): NoSQL document-oriented database
 * [Typescript](https://www.typescriptlang.org/): JavaScript with syntax for types
 * [SolidJS](https://www.solidjs.com/): Simple and performant reactivity for building user interfaces
 * [Swift](https://www.swift.org/): High-level general-purpose, multi-paradigm, compiled programming language
-* [Vapor](https://vapor.codes/): A server-side Swift HTTP web framework
+* [Rust](https://www.rust-lang.org/): Systems programming language designed for performance and safety
 * [CockroachDB](https://www.cockroachlabs.com/): The open source, cloud-native distributed SQL database.
 <!--* [Kotlin](https://kotlinlang.org/): Cross-platform, statically typed, general-purpose high-level programming language
 * [PostgreSQL](https://www.postgresql.org/): Relational database management system
-* [Go](https://go.dev/): Statically typed, compiled high-level programming language
+* [Vapor](https://vapor.codes/): A server-side Swift HTTP web framework
+* [Fiber](https://gofiber.io/): Go web framework built on top of Fasthttp
 -->
-
 
 <!--# Now playing
 
