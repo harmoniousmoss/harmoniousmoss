@@ -44,5 +44,5 @@ Contact: syaefulbahri[at]protonmail[dot]com-->
 Your friendly realtime IP Blacklist platform, made with [Axum](https://github.com/tokio-rs/axum) (Rust) and [MongoDB](https://www.mongodb.com/)
 
 ## Harmoniousmoss
-Personal website. Made with [SolidJS](https://www.solidjs.com/), [Tailwind](https://tailwindcss.com/), [Typescript](https://www.typescriptlang.org/), [MongoDB](https://www.mongodb.com/), [Vapor](https://vapor.codes/)
+Personal website. Made with [SolidJS](https://www.solidjs.com/), [Tailwind](https://tailwindcss.com/), [Typescript](https://www.typescriptlang.org/), [MongoDB](https://www.mongodb.com/), and [Vapor](https://vapor.codes/)
 
