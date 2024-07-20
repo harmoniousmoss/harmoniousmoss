@@ -1,8 +1,8 @@
-<!--# Hi, good people!
-I'm a software developer with a passion for creating cutting-edge solutions that drive meaningful innovations, aiming to create applications that improve lives and communities.-->
+# Hi, good people!
+I'm a software developer with a passion for creating cutting-edge solutions that drive meaningful innovations, aiming to create applications that improve lives and communities.
 
-# The way forward is open
-Open source software is freely accessible for use, thoughtfully crafted by individuals around the globe, and forms the core of my software development efforts.
+<!--# The way forward is open
+Open source software is freely accessible for use, thoughtfully crafted by individuals around the globe, and forms the core of my software development efforts.-->
 
 # The project I'm using
 I proudly utilize these open source technologies as the cornerstone of my software development projects.
@@ -13,7 +13,6 @@ I proudly utilize these open source technologies as the cornerstone of my softwa
 * [SolidJS](https://www.solidjs.com/): Simple and performant reactivity for building user interfaces
 * [Swift](https://www.swift.org/): High-level general-purpose, multi-paradigm, compiled programming language
 * [Rust](https://www.rust-lang.org/): Systems programming language designed for performance and safety
-
 <!--* [Kotlin](https://kotlinlang.org/): Cross-platform, statically typed, general-purpose high-level programming language
 * [PostgreSQL](https://www.postgresql.org/): Relational database management system
 * [Vapor](https://vapor.codes/): A server-side Swift HTTP web framework
@@ -21,9 +20,9 @@ I proudly utilize these open source technologies as the cornerstone of my softwa
 * [CockroachDB](https://www.cockroachlabs.com/): The open source, cloud-native distributed SQL database.
 -->
 
-<!--# Now playing
+# Now playing
 
-## Macro monitor
+<!--## Macro monitor
 A platform for insights and analysis of the Indonesian economy, delivering up-to-date and accurate economic data to inform strategic planning and decision-making. It provides a deeper understanding of Indonesia's economic landscape to support your economic monitoring needs with precision and ease. Made with [Next.js](https://nextjs.org/), [Tailwind](https://tailwindcss.com/), [Fiber](https://gofiber.io/), [MongoDB](https://www.mongodb.com/), [Typescript](https://www.typescriptlang.org/), [Apexcharts.js](https://apexcharts.com/)
 
 ## One CMS
@@ -39,11 +38,11 @@ A platform specifically designed to handle web scraping tasks efficiently, proce
 Talent Dev is a mobile application designed to curate and connect professionals to development job opportunities across Indonesia. This app targets a range of users from fresh graduates to seasoned experts seeking roles in non-profits, NGOs, government, and the private sector. Made with [Swift](https://www.swift.org/)
 
 # Have something in mind?
-Contact: syaefulbahri[at]protonmail[dot]com
+Contact: syaefulbahri[at]protonmail[dot]com-->
 
 ## RustKeeper
-Your friendly realtime IP Blacklist platform, made with [Axum](https://github.com/tokio-rs/axum) and [CockroachDB](https://www.cockroachlabs.com/)
+Your friendly realtime IP Blacklist platform, made with [Axum](https://github.com/tokio-rs/axum) (Rust) and [MongoDB](https://www.mongodb.com/)
 
 ## Harmoniousmoss
-Personal website. Made with [SolidJS](https://www.solidjs.com/), [Tailwind](https://tailwindcss.com/), [Typescript](https://www.typescriptlang.org/), [MongoDB](https://www.mongodb.com/), [Vapor](https://vapor.codes/)-->
+Personal website. Made with [SolidJS](https://www.solidjs.com/), [Tailwind](https://tailwindcss.com/), [Typescript](https://www.typescriptlang.org/), [MongoDB](https://www.mongodb.com/), [Vapor](https://vapor.codes/)
 
