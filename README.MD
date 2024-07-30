@@ -7,15 +7,14 @@ Open source software is freely accessible for use, thoughtfully crafted by indiv
 # The project I'm using
 I proudly utilize these open source technologies as the cornerstone of my software development projects.
 
-<!--![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb) ![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)-->
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-* [Typescript](https://www.typescriptlang.org/): JavaScript with syntax for types
+<!--* [Typescript](https://www.typescriptlang.org/): JavaScript with syntax for types
 * [Go](https://go.dev/): Statically typed, compiled high-level programming language
 * [SolidJS](https://www.solidjs.com/): Simple and performant reactivity for building user interfaces
 * [MongoDB](https://www.mongodb.com/): NoSQL document-oriented database
 * [Swift](https://www.swift.org/): High-level general-purpose, multi-paradigm, compiled programming language
 * [Rust](https://www.rust-lang.org/): General-purpose programming language emphasizing performance, type safety, and concurrency
-<!--
 * [Kotlin](https://kotlinlang.org/): Cross-platform, statically typed, general-purpose high-level programming language
 * [PostgreSQL](https://www.postgresql.org/): Relational database management system
 * [Vapor](https://vapor.codes/): A server-side Swift HTTP web framework
