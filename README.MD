@@ -14,8 +14,8 @@ I proudly utilize these open source technologies as the cornerstone of my softwa
 * [SolidJS](https://www.solidjs.com/): Simple and performant reactivity for building user interfaces
 * [MongoDB](https://www.mongodb.com/): NoSQL document-oriented database
 * [Swift](https://www.swift.org/): High-level general-purpose, multi-paradigm, compiled programming language
-* [Rust](https://www.rust-lang.org/): General-purpose programming language emphasizing performance, type safety, and concurrency
-<!--* [Kotlin](https://kotlinlang.org/): Cross-platform, statically typed, general-purpose high-level programming language
+<!--* [Rust](https://www.rust-lang.org/): General-purpose programming language emphasizing performance, type safety, and concurrency
+* [Kotlin](https://kotlinlang.org/): Cross-platform, statically typed, general-purpose high-level programming language
 * [PostgreSQL](https://www.postgresql.org/): Relational database management system
 * [Vapor](https://vapor.codes/): A server-side Swift HTTP web framework
 * [CockroachDB](https://www.cockroachlabs.com/): The open source, cloud-native distributed SQL database.
