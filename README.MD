@@ -24,7 +24,7 @@ I proudly utilize these open source technologies as the cornerstone of my softwa
 * [Fiber](https://gofiber.io/): Go web framework built on top of Fasthttp
 -->
 
-<!--# Now playing
+# Now playing
 
 ## Macro monitor
 A platform for insights and analysis of the Indonesian economy, delivering up-to-date and accurate economic data to inform strategic planning and decision-making. It provides a deeper understanding of Indonesia's economic landscape to support your economic monitoring needs with precision and ease. Made with [Next.js](https://nextjs.org/), [Tailwind](https://tailwindcss.com/), [Fiber](https://gofiber.io/), [MongoDB](https://www.mongodb.com/), [Typescript](https://www.typescriptlang.org/), [Apexcharts.js](https://apexcharts.com/)
@@ -32,7 +32,10 @@ A platform for insights and analysis of the Indonesian economy, delivering up-to
 ## One CMS
 One CMS is unified content management system, specifically crafted for use across organization digital platforms. It serves as a centralized tool for viewing and managing content across both internal and external websites or platforms operated by organization. The system features personalized access levels, ensuring that users receive privileges and capabilities tailored to their specific roles and responsibilities within the organization. Made with [Next.js](https://nextjs.org/), [Tailwind](https://tailwindcss.com/), [Fiber](https://gofiber.io/), [MongoDB](https://www.mongodb.com/), [Typescript](https://www.typescriptlang.org/)
 
-## Virgo
+## Brigatory
+Your friendly real-Time IP & malicious link blacklist platform, made with (Actix-web)[https://actix.rs/] (Rust) and [MongoDB](https://www.mongodb.com/)
+
+<!--## Virgo
 A hassle-free, smart, and human-friendly virtual assistant that assists you with all your data needs. Virgo modernizes and democratizes your knowledge, making data management and access easier and more efficient for everyone. Made with [Next.js](https://nextjs.org/), [Tailwind](https://tailwindcss.com/), [Fiber](https://gofiber.io/), [MongoDB](https://www.mongodb.com/), [Typescript](https://www.typescriptlang.org/), [OpenAI](https://openai.com/)
 
 ## GoScrappy
@@ -43,9 +46,6 @@ Talent Dev is a mobile application designed to curate and connect professionals 
 
 # Have something in mind?
 Contact: syaefulbahri[at]protonmail[dot]com
-
-## RustKeeper
-Your friendly realtime IP Blacklist platform, made with [Axum](https://github.com/tokio-rs/axum) (Rust) and [MongoDB](https://www.mongodb.com/)
 
 ## Harmoniousmoss
 Personal website. Made with [SolidJS](https://www.solidjs.com/), [Tailwind](https://tailwindcss.com/), [Typescript](https://www.typescriptlang.org/), [MongoDB](https://www.mongodb.com/), and [Vapor](https://vapor.codes/)-->
