@@ -26,7 +26,7 @@ I proudly utilize these open source technologies as the cornerstone of my softwa
 
 # Now playing
 
-## Macro monitor
+<!--## Macro monitor
 A platform for insights and analysis of the Indonesian economy, delivering up-to-date and accurate economic data to inform strategic planning and decision-making. It provides a deeper understanding of Indonesia's economic landscape to support your economic monitoring needs with precision and ease. Made with [Next.js](https://nextjs.org/), [Tailwind](https://tailwindcss.com/), [Fiber](https://gofiber.io/), [MongoDB](https://www.mongodb.com/), [Typescript](https://www.typescriptlang.org/), [Apexcharts.js](https://apexcharts.com/)
 
 ## One CMS
@@ -38,7 +38,7 @@ Your friendly real-Time IP & malicious link blacklist platform, made with [Actix
 ## Virgo
 A hassle-free, smart, and human-friendly virtual assistant that assists you with all your data needs. Virgo modernizes and democratizes your knowledge, making data management and access easier and more efficient for everyone. Made with [Solid.js](https://www.solidjs.com/), [Tailwind](https://tailwindcss.com/), [Fiber](https://gofiber.io/), [MongoDB](https://www.mongodb.com/), [Typescript](https://www.typescriptlang.org/), [Vertex AI](https://cloud.google.com/vertex-ai?hl=en)
 
-<!--## GoScrappy
+## GoScrappy
 A platform specifically designed to handle web scraping tasks efficiently, processing and storing of data extracted from various websites. Made with [Next.js](https://nextjs.org/), [Tailwind](https://tailwindcss.com/), [Typescript](https://www.typescriptlang.org/), [MongoDB](https://www.mongodb.com/), [Fiber](https://gofiber.io/)
 
 ## TalentDev
