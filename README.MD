@@ -24,9 +24,9 @@ I proudly utilize these open source technologies as the cornerstone of my softwa
 * [Fiber](https://gofiber.io/): Go web framework built on top of Fasthttp
 -->
 
-# Now playing
+<!--# Now playing
 
-<!--## Macro monitor
+## Macro monitor
 A platform for insights and analysis of the Indonesian economy, delivering up-to-date and accurate economic data to inform strategic planning and decision-making. It provides a deeper understanding of Indonesia's economic landscape to support your economic monitoring needs with precision and ease. Made with [Next.js](https://nextjs.org/), [Tailwind](https://tailwindcss.com/), [Fiber](https://gofiber.io/), [MongoDB](https://www.mongodb.com/), [Typescript](https://www.typescriptlang.org/), [Apexcharts.js](https://apexcharts.com/)
 
 ## One CMS
