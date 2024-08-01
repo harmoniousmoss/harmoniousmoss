@@ -33,12 +33,12 @@ A platform for insights and analysis of the Indonesian economy, delivering up-to
 One CMS is unified content management system, specifically crafted for use across organization digital platforms. It serves as a centralized tool for viewing and managing content across both internal and external websites or platforms operated by organization. The system features personalized access levels, ensuring that users receive privileges and capabilities tailored to their specific roles and responsibilities within the organization. Made with [Next.js](https://nextjs.org/), [Tailwind](https://tailwindcss.com/), [Fiber](https://gofiber.io/), [MongoDB](https://www.mongodb.com/), [Typescript](https://www.typescriptlang.org/)
 
 ## Brigatory
-Your friendly real-Time IP & malicious link blacklist platform, made with (Actix-web)[https://actix.rs/] (Rust) and [MongoDB](https://www.mongodb.com/)
+Your friendly real-Time IP & malicious link blacklist platform, made with [Actix-web](https://actix.rs/) (Rust) and [MongoDB](https://www.mongodb.com/)
 
-<!--## Virgo
-A hassle-free, smart, and human-friendly virtual assistant that assists you with all your data needs. Virgo modernizes and democratizes your knowledge, making data management and access easier and more efficient for everyone. Made with [Next.js](https://nextjs.org/), [Tailwind](https://tailwindcss.com/), [Fiber](https://gofiber.io/), [MongoDB](https://www.mongodb.com/), [Typescript](https://www.typescriptlang.org/), [OpenAI](https://openai.com/)
+## Virgo
+A hassle-free, smart, and human-friendly virtual assistant that assists you with all your data needs. Virgo modernizes and democratizes your knowledge, making data management and access easier and more efficient for everyone. Made with [Solid.js](https://www.solidjs.com/), [Tailwind](https://tailwindcss.com/), [Fiber](https://gofiber.io/), [MongoDB](https://www.mongodb.com/), [Typescript](https://www.typescriptlang.org/), [Vertex AI](https://cloud.google.com/vertex-ai?hl=en)
 
-## GoScrappy
+<!--## GoScrappy
 A platform specifically designed to handle web scraping tasks efficiently, processing and storing of data extracted from various websites. Made with [Next.js](https://nextjs.org/), [Tailwind](https://tailwindcss.com/), [Typescript](https://www.typescriptlang.org/), [MongoDB](https://www.mongodb.com/), [Fiber](https://gofiber.io/)
 
 ## TalentDev
