@@ -12,7 +12,6 @@ I proudly utilize these open source technologies as the cornerstone of my softwa
 
 * [Typescript](https://www.typescriptlang.org/): JavaScript with syntax for types
 * [Go](https://go.dev/): Statically typed, compiled high-level programming language
-* [SolidJS](https://www.solidjs.com/): Simple and performant reactivity for building user interfaces
 * [MongoDB](https://www.mongodb.com/): NoSQL document-oriented database
 * [Swift](https://www.swift.org/): High-level general-purpose, multi-paradigm, compiled programming language
 * [Rust](https://www.rust-lang.org/): General-purpose programming language emphasizing performance, type safety, and concurrency
@@ -22,6 +21,7 @@ I proudly utilize these open source technologies as the cornerstone of my softwa
 * [Vapor](https://vapor.codes/): A server-side Swift HTTP web framework
 * [CockroachDB](https://www.cockroachlabs.com/): The open source, cloud-native distributed SQL database.
 * [Fiber](https://gofiber.io/): Go web framework built on top of Fasthttp
+* [SolidJS](https://www.solidjs.com/): Simple and performant reactivity for building user interfaces
 -->
 
 <!--# Now playing
