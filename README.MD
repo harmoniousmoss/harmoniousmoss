@@ -13,7 +13,7 @@ I proudly utilize these open source technologies as the cornerstone of my softwa
 * [Typescript](https://www.typescriptlang.org/): JavaScript with syntax for types
 * [Go](https://go.dev/): Statically typed, compiled high-level programming language
 * [MongoDB](https://www.mongodb.com/): NoSQL document-oriented database
-* [Swift](https://www.swift.org/): High-level general-purpose, multi-paradigm, compiled programming language
+* [Node.js](https://nodejs.org/en): JavaScript runtime built on Chrome's V8 JavaScript engine
 * [Rust](https://www.rust-lang.org/): General-purpose programming language emphasizing performance, type safety, and concurrency
 <!--
 * [Kotlin](https://kotlinlang.org/): Cross-platform, statically typed, general-purpose high-level programming language
@@ -22,6 +22,7 @@ I proudly utilize these open source technologies as the cornerstone of my softwa
 * [CockroachDB](https://www.cockroachlabs.com/): The open source, cloud-native distributed SQL database.
 * [Fiber](https://gofiber.io/): Go web framework built on top of Fasthttp
 * [SolidJS](https://www.solidjs.com/): Simple and performant reactivity for building user interfaces
+* [Swift](https://www.swift.org/): High-level general-purpose, multi-paradigm, compiled programming language
 -->
 
 <!--# Now playing
