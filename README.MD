@@ -24,7 +24,7 @@ I proudly utilize these open source technologies as the cornerstone of my softwa
 * [SolidJS](https://www.solidjs.com/): Simple and performant reactivity for building user interfaces
 -->
 
-<--!# On Medium
+<!--# On Medium
 * [I believe Swift on the server is still in its early stages](https://medium.com/@harmoniousmoss/i-believe-swift-on-the-server-is-still-in-its-early-stages-a8ecf72a9c0a)
 * [Introducing Brigatory: Your Friendly Real-Time IP & Malicious Link Blacklist Platform](https://medium.com/@harmoniousmoss/introducing-brigatory-your-friendly-real-time-ip-malicious-link-blacklist-platform-003ebfff14a3)
 * [It might be the right time to go native with Swift.](https://medium.com/@harmoniousmoss/it-might-be-the-right-time-to-go-native-with-swift-02946e99d649)-->
