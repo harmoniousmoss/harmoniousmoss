@@ -13,7 +13,7 @@ I proudly utilize these open source technologies as the cornerstone of my softwa
 * [Typescript](https://www.typescriptlang.org/): JavaScript with syntax for types
 * [Go](https://go.dev/): Statically typed, compiled high-level programming language
 * [MongoDB](https://www.mongodb.com/): NoSQL document-oriented database
-* [Rust](https://www.rust-lang.org/): General-purpose programming language emphasizing performance, type safety, and concurrency
+* [Rust](https://www.rust-lang.org/): Empowering everyone to build reliable and efficient software.
 <!--
 * [Node.js](https://nodejs.org/en): Cross-platform JavaScript runtime environment
 * [Kotlin](https://kotlinlang.org/): Cross-platform, statically typed, general-purpose high-level programming language
