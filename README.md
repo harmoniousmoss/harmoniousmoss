@@ -3,4 +3,4 @@ Open source software is freely accessible for use, thoughtfully crafted by indiv
 
 # The project I'm using
 
-[Typescript](https://www.typescriptlang.org/), [MongoDB](https://www.mongodb.com/), [Go](https://go.dev/), [Rust](https://www.rust-lang.org/), [PostgreSQL](https://www.postgresql.org/), [Tailwind](https://tailwindcss.com/), [TensorFlow](https://tensorflow.org/), [LangChain](https://www.langchain.com/), [Llama](https://www.llama.com/)
+[Typescript](https://www.typescriptlang.org/), [MongoDB](https://www.mongodb.com/), [Go](https://go.dev/), [PostgreSQL](https://www.postgresql.org/), [Tailwind](https://tailwindcss.com/), [TensorFlow](https://tensorflow.org/), [LangChain](https://www.langchain.com/), [Llama](https://www.llama.com/)
