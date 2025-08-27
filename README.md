@@ -1,5 +1,2 @@
-# The way forward is open
-Open source software is freely accessible for use, thoughtfully crafted by individuals around the globe, and forms the core of my software development efforts.
-
-# The project I'm using
-[Typescript](https://www.typescriptlang.org/), [MongoDB](https://www.mongodb.com/), [Go](https://go.dev/), [PostgreSQL](https://www.postgresql.org/), [Tailwind](https://tailwindcss.com/), [Node.js](https://nodejs.org/en)
+# Technical Solutions Architect | International Development & Gov Systems | AI Integration
+Technical Solutions Architect experience in designing and implementing systems for government agencies and international development organizations. Background includes developing scalable cloud solutions, data integration platforms, and AI-powered applications. Focused on stakeholder coordination, cross-cultural project delivery, and modernizing legacy systems.
