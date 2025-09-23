@@ -1,2 +1,2 @@
 ## About Me
-Technical Solutions Architect & Full-Stack Developer specializing in multi-cloud (AWS, GCP), AI integration, and security-first design. Enterprise to social impact applications.
+Technical Solutions Architect with 10+ years designing and implementing systems for government agencies and international development organizations. Background includes developing scalable cloud solutions, data integration platforms, and AI-powered systems.
