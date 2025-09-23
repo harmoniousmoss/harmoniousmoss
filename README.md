@@ -1,2 +1,2 @@
 ## About Me
-I'm a Technical Solutions Architect with expertise in designing and implementing end-to-end systems from frontend applications to cloud infrastructure. Proven track record developing scalable solutions for government agencies, international organizations, and diverse sectors. Specializes in multi-cloud architectures (AWS, GCP), AI integration (OpenAI, Gemini, Ollama), and security-first design. Portfolio spans enterprise platforms, developer tools, social impact applications, and complete DevOps pipelines.
+I'm a Technical Solutions Architect specializing in multi-cloud (AWS, GCP), AI integration, and security-first design. Enterprise to social impact applications.
