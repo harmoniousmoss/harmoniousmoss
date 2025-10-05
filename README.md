@@ -1,2 +1,2 @@
 ## About Me
-Technical Solutions Architect experience designing and implementing systems for government agencies and international development organizations. Background includes developing scalable cloud solutions, data integration platforms, and AI-powered systems.
+Software Solutions Architect working with generative AI and cloud infrastructure for international development and government organizations. Experience building systems across AWS/GCP, AI-powered platforms, and enterprise applications.
