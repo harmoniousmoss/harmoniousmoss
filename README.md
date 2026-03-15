@@ -1,2 +1,2 @@
 ## About Me
-Technical Solutions Architect specializing in international development and government organizations, with experience in AWS cloud architecture, AI-driven platforms, and government digital systems.
+Digital Solutions Architect specializing in digital systems for government and international development programs, with expertise in cloud architecture and applied AI.
